@@ -342,5 +342,12 @@
       "added":1526151182,
       "sector":"clothing",
       "digital_goods":"no, goods shipped"
+   },
+   {
+      "href": "https://www.9bravos.com.br",
+      "uri": "581de0ba7a6416e0fd7759f093be63319c46d52da263f28f18ea31a50a421add",
+      "name": "9Bravos",
+      "description": "Niche brazilian bookstore specialized to Archival Science, Librarianship and Information Science",
+      "sector":"books"
    }
 ]
